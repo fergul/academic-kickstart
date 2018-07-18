@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cyber Physical Systems",
+    "Smart Homes and Cities",
+    "Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Cyber Physical Systems"
+  institution = "Imperial College London"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MSci in Software Engineering"
+  institution = "University of Glasgow"
+  year = 2014
  
 +++
 
 # Biography
+I'm a PhD student in Distributed Software Engineering within the Department of Computing at Imperial College London. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Now completing a PhD at Imperial College London under the supervision by Dr. Naranker Dulay, focusing on building visual simulation tools and techniques, coined "Visual Diffing", for developing and testing Cyber-Physical systems and the Internet of Things.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests include cyber-physical systems, the Internet of Things, smart devices, embedded + constrained devices, robotics, human-centric computing, virtual/augmented/mixed reality, distributed systems and operating systems.
+
+When I'm not doing research I enjoy paddling for my local dragon boat team [Typhoon](http://typhoon-dbc.com), video + board games, learning languages (Japanese + Cantonese), kite flying, tinkering with electronics and in the winter months (or at the Snow Centre) skiing and [snowboarding](https://youtu.be/eoIVr3U0t_4).
