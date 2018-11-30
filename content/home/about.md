@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Next generation people-centric services",
     "Cyber Physical Systems",
     "Smart Homes and Cities",
     "Robotics"
@@ -35,4 +36,6 @@ Now completing a PhD at Imperial College London under the supervision by Dr. Nar
 
 My research interests include cyber-physical systems, the Internet of Things, smart devices, embedded + constrained devices, robotics, human-centric computing, virtual/augmented/mixed reality, distributed systems and operating systems.
 
-When I'm not doing research I enjoy paddling for my local dragon boat team [Typhoon](http://typhoon-dbc.com), video + board games, learning languages (Japanese + Cantonese), kite flying, tinkering with electronics and in the winter months (or at the Snow Centre) skiing and [snowboarding](https://youtu.be/eoIVr3U0t_4).
+I've previously interned at [Fujitsu Labs Japan](https://fergusleahy.wordpress.com/) and JP Morgan, getting a taste of research and corporate organisations.
+
+When I'm not coding or doing research I enjoy paddling and captaining for my local dragon boat team [Typhoon](http://typhoon-dbc.com), [designing card games](/#projects), playing card, board + video games, learning languages (Japanese + Cantonese), kite flying, tinkering with electronics and in the winter months (or at the Snow Centre) skiing and [snowboarding](https://youtu.be/eoIVr3U0t_4).
