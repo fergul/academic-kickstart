@@ -32,6 +32,6 @@ image = "fileWarp.png"
 caption = "File Warp"
 +++
 
-A sound-based local file-drop utility for sharing files between devices within earshot of one another. Uses \textit{quiet.js} to discover and hand-shake between clients before transferring files over \textit{socket.js} and a shared network connection. Built on the Electron web-based platform, utilising a JavaScript front- and back-end and Material design.
+A sound-based local file-drop utility for sharing files between devices within earshot of one another. Uses quiet.js to discover and hand-shake between clients before transferring files over socket.js and a shared network connection. Built on the Electron web-based platform, utilising a JavaScript front- and back-end and Material design.
 
 {{< gallery album="1" >}}
