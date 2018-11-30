@@ -1,7 +1,7 @@
 
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-03-27T00:00:00
 
 # Project title.
 title = "Thai West Cafe Digital Menu"
@@ -10,7 +10,7 @@ title = "Thai West Cafe Digital Menu"
 summary = "A web-based digital menu built on Python Django for a Thai Cafe in Picadilly Circus"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "thaiWestMenu.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -24,7 +24,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/bubbles-wide.jpg"
+image = "thaiWestMenu.jpg"
 #caption = "My caption :smile:"
 +++
 

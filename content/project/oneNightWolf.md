@@ -1,0 +1,53 @@
+
++++
+# Date this page was created.
+date = 2018-11-30T00:00:00
+
+# Project title.
+title = "One Night Werewolf Custom Card Game"
+
+# Project summary to display on homepage.
+summary = "A custom print'n'play (PnP) version of the popular social deduction game, One Night Werewolf. Cards designed using the tikz library for LaTeX. "
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "onwPreview.png"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["LaTeX", "Design", "Card Game", "Card Game Series", "tikz"]
+
+# Optional external URL for project (replaces project detail page).
+#external_link = "http://github.com/fergul/py-SRPC"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
+
+[[gallery_item]]
+album = "1"
+image = "2r1bGallery1.png"
+caption = "Purple Team Amnesiac"
+    
+[[gallery_item]]
+album = "1"
+image = "2r1bGallery2.png"
+caption = "Grey Team Private Detective"
+
+[[gallery_item]]
+album = "1"
+image = "2r1bGallery3.png"
+caption = "Blue Team Spy"
+
+[[gallery_item]]
+album = "1"
+image = "2r1bGallery4.png"
+caption = "Red Team Negotiator"
++++
+
+A custom print'n'play (PnP) version of the popular social deduction game, One Night Werewolf. Part of a design series experiment to create minimalist cards designed using the tikz library for LaTeX.
+
+{{< gallery album="1" >}}

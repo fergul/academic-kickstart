@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
@@ -33,12 +33,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
+  name = "Robot"
+  tag = ".robot"
+  
+[[filter]]
   name = "Web"
   tag = ".web"
-
-[[filter]]
-  name = "Embedded"
-  tag = ".embedded"
 
 [[filter]]
   name = "C"
@@ -51,5 +51,10 @@ filter_default = 0
 [[filter]]
   name = "Android"
   tag = ".android"
+
+[[filter]]
+  name = "Design"
+  tag = ".design"
+
 +++
 
