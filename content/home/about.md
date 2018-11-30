@@ -34,7 +34,7 @@ I'm a PhD student in Distributed Software Engineering within the Department of C
 
 In the writing up stage of a PhD at Imperial College London under the supervision by Dr. Naranker Dulay, focusing on building visual simulation tools and techniques, coined "Visual Diffing", for developing and testing human-centric cyber-physical systems and the Internet of Things.
 
-My interests include designing next generation human-centric services, distributed systems, Internet of Everything, smart devices, robotics and virtual/augmented/mixed reality.
+My interests include designing next generation human-centric services, distributed systems, the Internet of Everything, smart devices, robotics and virtual/augmented/mixed reality.
 
 I've previously interned at [Fujitsu Labs Japan](https://fergusleahy.wordpress.com/) and JP Morgan, getting a taste of research and corporate organisations.
 
